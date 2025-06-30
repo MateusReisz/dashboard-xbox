@@ -1,0 +1,18 @@
+# Arquivos temporários do Excel
+~$*.xlsx
+*.tmp
+
+# Diretórios do sistema
+.DS_Store
+Thumbs.db
+
+# Diretórios do editor
+.vscode/
+.idea/
+
+# Arquivos de log ou cache
+*.log
+*.bak
+
+# Pastas do sistema de controle
+.git/
